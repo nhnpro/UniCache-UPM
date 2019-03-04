@@ -1,0 +1,16 @@
+{
+    "name": "mattak.unicache.examples",
+    "references": [
+        "mattak.unicache",
+        "UniRx",
+        "UniRx.Async"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
