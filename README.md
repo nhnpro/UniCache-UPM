@@ -12,7 +12,7 @@
    {   
    
  		...
- 		**"mattak.unicache": "https://github.com/nhnpro/UniCache-UPM.git#0.0.1",**
+ 		"mattak.unicache": "https://github.com/nhnpro/UniCache-UPM.git#0.0.2",
  		...
  		
    }

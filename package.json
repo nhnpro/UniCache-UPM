@@ -1,6 +1,6 @@
 {
 	"name": "mattak.unicache",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"displayName": "mattak-unicache",
 	"unity": "2018.1",
 	"description": "Uni Cache",
@@ -10,5 +10,6 @@
 		"name": "mattak"
 	},
 	"dependencies": {
+		"com.namnh.unirx": "https://github.com/nhnpro/NHN-UniRX-UPM.git#6.2.4"
 	}
 }
