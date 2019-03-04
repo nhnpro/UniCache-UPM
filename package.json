@@ -1,0 +1,14 @@
+{
+	"name": "mattak.unicache",
+	"version": "0.0.1",
+	"displayName": "mattak-unicache",
+	"unity": "2018.1",
+	"description": "Uni Cache",
+	"keywords": ["unicache"],
+	"category": "Util",
+	"author": {
+		"name": "mattak"
+	},
+	"dependencies": {
+	}
+}
